@@ -10,7 +10,7 @@ Select the Activities that can result maximum activity selection.
 
 # Examples
 
-Input:  
+* Input:  
 The charge for each activity:  
 10  
 Enter the no. of activity:  
@@ -21,7 +21,7 @@ b 4 2
 c 7 1  
 d 8 2  
 
-Output:  
+* Output:  
 Name: a, Start: 2, Finish: 5  
 Name: b, Start: 4, Finish: 6  
 Name: c, Start: 7, Finish: 8  
