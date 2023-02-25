@@ -6,7 +6,7 @@ The profit is the cost of each task X no. of task.
 Each task will have a name that is a character like a, b, c etc. Later The Activities that are selected have to be printed sequencially.
 The starting time will be given after the name and the duration is given after that.
 
-Select the Activities that can result maximum activity selection.
+Select the Activities that has more duration and also take the maximum no. of tasks.
 
 # Examples
 
