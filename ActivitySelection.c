@@ -51,8 +51,8 @@ int main() {
 
     printMaxActivities(activities, n);
 
-    int profit = M*count;
-
+    int profit = M*count; // Profit = the cost of each task X no. of task
     printf("\n\nThe profit: %d", profit);
+    
     return 0;
 }
