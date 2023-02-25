@@ -25,7 +25,7 @@ d 8 2
 Name: a, Start: 2, Finish: 5  
 Name: b, Start: 4, Finish: 6  
 Name: c, Start: 7, Finish: 8  
-Name: d, Start: 8, Finish: 10
+Name: d, Start: 8, Finish: 10  
 Selected Activities:  
 b   
 d   
