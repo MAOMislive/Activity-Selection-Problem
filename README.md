@@ -2,7 +2,7 @@
 This is a problem taken from my Lab Mentor.  
 
 # Problem statement  
-Here, A teacher is looking to take some courses, where he will be paid a charge for every courses (No variations in charges for any durations of the courses). But he is wanting to select the courses that has more duration. Again, he is willing to take the maximum no. of courses for his own financial betterment.  
+Here, A teacher is looking to take some courses, where he will be paid a charge for every courses (No variations in charges for any durations of the courses). But he is wanting to select the courses that has more duration. Again, he is willing to take the maximum no. of courses for his own financial betterment. It is asked to help him finding the optimal solution to his problem by using Activity Selection Algorithm.  
   
 # Things that is asked as INPUT:
 * At-first the charge for a courses have to be inputed.
@@ -12,7 +12,7 @@ Here, A teacher is looking to take some courses, where he will be paid a charge 
 # Things that is asked as OUTPUT:  
 * Make a list of courses inputed in name-start-finish manner. 
 * Each task will have a name that will be a character like a, b, c etc. The output will print the courses sequencially that are selected. Also, select the courses that has more duration and also take the maximum no. of courses.
-* Lastly, calculate the profit that he will earn if he takes the outputed courses.
+* Lastly, calculate the revenue that he will earn if he takes the outputed courses.
 
 # Examples
 * Input:  
