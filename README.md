@@ -9,10 +9,10 @@ Here, A teacher is looking to take some courses, where he will be paid a charge 
 * Then the number of courses will be asked.
 * After that, the name of each activity with the starting time and the duration have to be inputed.
   
-# Tthings that is asked as OUTPUT:  
+# Things that is asked as OUTPUT:  
 * Make a list of courses inputed in name-start-finish manner. 
-* Each task will have a name that will be a character like a, b, c etc. So,The courses that are selected have to be printed sequencially. Select the courses that has more duration and also take the maximum no. of courses.
-* Lastly, calcute the profit that he will earn if he takes the outputed courses.
+* Each task will have a name that will be a character like a, b, c etc. The output will print the courses sequencially that are selected. Also, select the courses that has more duration and also take the maximum no. of courses.
+* Lastly, calculate the profit that he will earn if he takes the outputed courses.
 
 # Examples
 * Input:  
