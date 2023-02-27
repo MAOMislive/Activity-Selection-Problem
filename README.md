@@ -1,7 +1,7 @@
 # Activity-Selection-Problem
 This is a problem taken from my Lab Mentor.  
 
-# Problem statement  
+# Problem Statement  
 Here, A teacher is looking to take some courses, where he will be paid a charge for every courses (No variations in charges for any durations of the courses). But he is wanting to select the courses that has more duration. Again, he is willing to take the maximum no. of courses for his own financial betterment. It is asked to help him finding the optimal solution to his problem by using Activity Selection Algorithm.  
   
 # Things that is asked as INPUT:
