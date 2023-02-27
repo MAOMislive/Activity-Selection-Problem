@@ -2,20 +2,18 @@
 It is a problem taken as a Class Test by my Lab mentor.  
 
 # Problem statement  
-The profit is the cost of each task X no. of task. 
-Each task will have a name that is a character like a, b, c etc. Later The Activities that are selected have to be printed sequencially.
-The starting time will be given after the name and the duration is given after that.
+* The profit is the cost of each task X no. of task. 
+* Each task will have a name that can be a character like a, b, c etc.
+* Later the activities that are selected have to be printed sequencially.
+* The starting time and the duration will be given after the name.
 
 Select the Activities that has more duration and also take the maximum no. of tasks.
 
 # Examples
 
 * Input:  
-The charge for each activity:  
-10  
-Enter the no. of activity:  
-4  
-Enter the name, start time and duration:  
+10    
+4    
 a 2 3  
 b 4 2  
 c 7 1  
