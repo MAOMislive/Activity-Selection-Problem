@@ -2,7 +2,7 @@
 This is a problem taken from my Lab Mentor.  
 
 # Problem statement  
-Here, A teacher is looking to take some courses, where he will be paid a charge for every courses (No variations in charges for any durations of the courses). But he is wanting to select the courses that has more duration. Again, he also want to take the maximum no. of courses for his own financial benefit.  
+Here, A teacher is looking to take some courses, where he will be paid a charge for every courses (No variations in charges for any durations of the courses). But he is wanting to select the courses that has more duration. Again, he is willing to take the maximum no. of courses for his own financial betterment.  
   
 # Things that is asked as INPUT:
 * At-first the charge for a courses have to be inputed.
